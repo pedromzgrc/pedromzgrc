@@ -1,24 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:16243B&height=200&section=header&text=Pedro%20Mu%C3%B1oz%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Ex-Amazon%20%26%20AWS&descAlignY=58&descSize=18" width="100%"/>
-</p>
+## 👋 Hi there! I'm Pedro
 
-<p align="center">
-  <a href="https://linkedin.com/in/pedromzgrc">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer+%7C+TypeScript+%2B+Python;Building+on+AWS+for+7%2B+years;Now+deep+in+AI+orchestration+%26+agentic+workflows;Trying+not+to+become+a+vibe+coder;Re-introducing+myself+to+GitHub&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=0E7490&vCenter=true&multiline=false&repeat=true" alt="Typing SVG" />
-  </a>
-</p>
+💫 I'm a **Senior Software Engineer** and **former Amazon and AWS** employee
+🚀 Long-time lurker on GitHub. Amazon had other plans for my commits for a while, so consider **this a re-introduction**
+🛠️ I love **full-stack development**, **TypeScript** and **Python** are my fundation, but I have a soft spot for the stuff nobody sees, like **DevOps** and **Cloud Architecture**
+🤖 Currently deep in **AI orchestration** and **agentic workflows**, trying to ride the AI wave without becoming a vibe coder
+🇪🇸 Bachelor's in Computer Science and Master's in Data Science and Machine Learning (yes, there was AI before LLMs)
+🇧🇪 Currently based in **Brussels**
+🐢 Catching up with the open source community that has given me so much throughout my career
 
 <br>
 
-## 💫 About Me
-
-👋 Hi there! I'm Pedro, Senior Software Engineer and former Amazon and AWS employee
-🚀 Long-time lurker on GitHub. Amazon had other plans for my commits for a while, so consider this a re-introduction
-🛠️ I love full-stack development, TypeScript and Python, but I have a soft spot for the stuff nobody sees, like DevOps and Cloud Architecture
-🤖 Currently deep in AI orchestration and agentic workflows, trying to ride the AI wave without becoming a vibe coder
-🇪🇸 Bachelor's in Computer Science and Master's in Data Science and Machine Learning (yes, there was AI before LLMs)
-🇧🇪 Currently based in Brussels
-🐢 Catching up with the open source community that has given me so much throughout my career
+<p align="center">
+  <!-- 🔁 REPLACE: typing animation gif, or just delete this block if you don't want one -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9qM2pkZzZ4ejlwaWdueHR2a3E1eHlqZ2htMm50ZXBhd2l2MjRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif" alt="intro banner" width="100%"/>
+</p>
 
 <br>
 
@@ -64,25 +59,8 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedromzgrc&show_icons=true&hide_border=true&theme=default&title_color=0E7490&icon_color=0E7490&text_color=16243B&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromzgrc&layout=compact&hide_border=true&theme=default&title_color=0E7490&text_color=16243B&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromzgrc&hide_border=true&theme=default&background=00000000&ring=0E7490&fire=0E7490&currStreakLabel=0E7490" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
+## 🐍 Working hard to make the Contribution Snake bigger
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedromzgrc/pedromzgrc/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16243B,100:0E7490&height=100&section=footer" width="100%"/>
 </p>
