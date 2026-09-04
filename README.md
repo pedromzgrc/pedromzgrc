@@ -1,18 +1,18 @@
 ## 👋 Hi there! I'm Pedro
 
-💫 I'm a **Senior Software Engineer** and **former Amazon and AWS** employee
-🚀 Long-time lurker on GitHub. Amazon had other plans for my commits for a while, so consider **this a re-introduction**
-🛠️ I love **full-stack development**, **TypeScript** and **Python** are my fundation, but I have a soft spot for the stuff nobody sees, like **DevOps** and **Cloud Architecture**
-🤖 Currently deep in **AI orchestration** and **agentic workflows**, trying to ride the AI wave without becoming a vibe coder
-🇪🇸 Bachelor's in Computer Science and Master's in Data Science and Machine Learning (yes, there was AI before LLMs)
-🇧🇪 Currently based in **Brussels**
-🐢 Catching up with the open source community that has given me so much throughout my career
+💫 I'm a **Senior Software Engineer** and **former Amazon and AWS** employee <br>
+🚀 Long-time lurker on GitHub. Amazon had other plans for my commits for a while, so consider **this a re-introduction** <br>
+🛠️ I love **full-stack development**, **TypeScript** and **Python** are my fundation, but I have a soft spot for the stuff nobody sees, like **DevOps** and **Cloud Architecture** <br>
+🤖 Currently deep in **AI orchestration** and **agentic workflows**, trying to ride the AI wave without becoming a vibe coder <br>
+🇪🇸 Bachelor's in Computer Science and Master's in Data Science and Machine Learning (yes, there was AI before LLMs) <br>
+🇧🇪 Currently based in **Brussels** <br>
+🐢 Catching up with the open source community that has given me so much throughout my career <br>
 
 <br>
 
 <p align="center">
   <!-- 🔁 REPLACE: typing animation gif, or just delete this block if you don't want one -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9qM2pkZzZ4ejlwaWdueHR2a3E1eHlqZ2htMm50ZXBhd2l2MjRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif" alt="intro banner" width="100%"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/016/533/460/large/alyssa-zarate-asset.jpg?1552507326" alt="intro banner" width="100%"/>
 </p>
 
 <br>
