@@ -10,13 +10,6 @@
 
 <br>
 
-<p align="center">
-  <!-- 🔁 REPLACE: typing animation gif, or just delete this block if you don't want one -->
-  <img src="https://cdna.artstation.com/p/assets/images/images/016/533/460/large/alyssa-zarate-asset.jpg?1552507326" alt="intro banner" width="100%"/>
-</p>
-
-<br>
-
 ## 🌐 Socials
 
 <p align="left">
